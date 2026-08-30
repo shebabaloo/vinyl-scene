@@ -9,7 +9,7 @@ board, record label, lamp color, and restrained environmental motion around the 
 > **Friend beta:** Version 0.1.0 is an unnotarized Apple Silicon preview. macOS will ask
 > you to manually approve it the first time you open it. See the installation steps below.
 
-[Download the latest friend beta](https://github.com/shebabaloo/vinyl-scene/releases/latest)
+[Download Vinyl Scene 0.1.0 Friend Beta](https://github.com/shebabaloo/vinyl-scene/releases/tag/v0.1.0-friend-beta)
 
 ## The scenes
 
