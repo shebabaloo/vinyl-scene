@@ -31,6 +31,8 @@ generated **Source code** archive; those files do not contain the app.
 - Follow-album or fixed-color behavior with four finishing treatments
 - Display selection, desktop mode, login-item option, and menu-bar recovery
 - Local Creator Kit export, validation, and import flow
+- Energy-aware rendering: covered, sleeping, and inactive scenes stop their animation
+  clocks; settled Still mode minimizes background work without changing visible behavior
 
 ## Compatibility
 
@@ -55,5 +57,5 @@ shasum -a 256 ~/Downloads/Vinyl-Scene-0.1.0-friend-beta-arm64.zip
 Expected SHA-256:
 
 ```text
-a2724ca3b10b2283a7761d54cefec0d5260b112d7115b7b8a9d9585acc6a67ff
+ed342a04b8dd7b5cdfc1a0041b41d02d15eca45504cdcdfa590c79828e611f1e
 ```

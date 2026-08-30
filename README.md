@@ -72,6 +72,10 @@ edition rotates through a curated quote deck.
 The menu-bar record icon always lets you return to the editor, show the normal wallpaper,
 rerun setup, or quit.
 
+Vinyl Scene pauses its animation clocks when the scene is fully covered, the screen is
+asleep, or the macOS session is inactive. Settled **Still** mode also minimizes background
+rendering while keeping music metadata and color changes available.
+
 ### Music and Spotify permission
 
 Live music is optional. The first time Vinyl Scene reads Apple Music or Spotify, macOS may
