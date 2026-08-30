@@ -1,4 +1,4 @@
-# Vinyl Scene 0.1.0 Friend Beta
+# Vinyl Scene
 
 The first public friend beta of Vinyl Scene, a tactile music-responsive desktop for macOS.
 
