@@ -7,9 +7,29 @@ currently playing track from Apple Music or Spotify, then coordinate the split-f
 board, record label, lamp color, and restrained environmental motion around the music.
 
 > **Friend beta:** Version 0.1.0 is an unnotarized Apple Silicon preview. macOS will ask
-> you to manually approve it the first time you open it. See the installation steps below.
+> you to manually approve it the first time you open it.
 
-[Download Vinyl Scene 0.1.0 Friend Beta](https://github.com/shebabaloo/vinyl-scene/releases/tag/v0.1.0-friend-beta)
+## Download and install
+
+### [Download Vinyl Scene for Apple Silicon (18.9 MB)](https://github.com/shebabaloo/vinyl-scene/releases/download/v0.1.0-friend-beta/Vinyl-Scene-0.1.0-friend-beta-arm64.zip)
+
+Requires an Apple Silicon Mac (M1 or newer) running macOS 14 Sonoma or later. Intel Macs
+are not supported by this beta.
+
+1. Click the download link above.
+2. Double-click the ZIP, then move **Vinyl Scene.app** into your **Applications** folder.
+3. Try to open Vinyl Scene once. macOS will warn that the developer cannot be verified.
+4. Open **System Settings → Privacy & Security**, scroll to **Security**, and choose
+   **Open Anyway** for Vinyl Scene.
+5. Confirm **Open** when macOS asks again. If you enable live music, also approve the
+   optional Automation prompt for Apple Music or Spotify.
+
+If you are looking at GitHub's **Assets** list, choose
+`Vinyl-Scene-0.1.0-friend-beta-arm64.zip`. Do **not** choose either automatically generated
+**Source code** archive; those files do not contain the app.
+
+Only use the security override for a build downloaded from this repository. The SHA-256
+checksum published with the release lets you verify the ZIP before opening it.
 
 ## The scenes
 
@@ -35,27 +55,6 @@ lamp response, environmental shadow, and coffee steam.
 The bundled personalization example. It demonstrates how the same board, record, lamp,
 steam, and window system can support a more personal room. When music is idle, this
 edition rotates through a curated quote deck.
-
-## Requirements
-
-- A Mac with Apple Silicon: M1, M2, M3, M4, or newer
-- macOS 14 Sonoma or later
-- Apple Music or Spotify only if you want live now-playing information
-
-Intel Macs are not supported by this beta.
-
-## Install the friend beta
-
-1. Open [Releases](https://github.com/shebabaloo/vinyl-scene/releases) and download
-   `Vinyl-Scene-0.1.0-friend-beta-arm64.zip`.
-2. Double-click the ZIP and move **Vinyl Scene.app** into your Applications folder.
-3. Try to open Vinyl Scene once. macOS will warn that the developer cannot be verified.
-4. Open **System Settings → Privacy & Security**, scroll to **Security**, and choose
-   **Open Anyway** for Vinyl Scene.
-5. Confirm **Open** when macOS asks again.
-
-Only use the security override for a build downloaded from this repository. The SHA-256
-checksum published with the release lets you verify the ZIP before opening it.
 
 ## First use
 

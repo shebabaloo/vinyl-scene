@@ -2,6 +2,25 @@
 
 The first public friend beta of Vinyl Scene, a tactile music-responsive desktop for macOS.
 
+## Download and install
+
+### [Download Vinyl Scene for Apple Silicon (18.9 MB)](https://github.com/shebabaloo/vinyl-scene/releases/download/v0.1.0-friend-beta/Vinyl-Scene-0.1.0-friend-beta-arm64.zip)
+
+Requires an Apple Silicon Mac (M1 or newer) running macOS 14 Sonoma or later. Intel Macs
+are not supported by this beta.
+
+1. Click the download link above.
+2. Double-click the ZIP, then move **Vinyl Scene.app** into your **Applications** folder.
+3. Try to open Vinyl Scene once. macOS will warn that the developer cannot be verified.
+4. Open **System Settings → Privacy & Security**, scroll to **Security**, and choose
+   **Open Anyway** for Vinyl Scene.
+5. Confirm **Open** when macOS asks again. If you enable live music, also approve the
+   optional Automation prompt for Apple Music or Spotify.
+
+In the **Assets** list below, the app is
+`Vinyl-Scene-0.1.0-friend-beta-arm64.zip`. Do **not** download either automatically
+generated **Source code** archive; those files do not contain the app.
+
 ## Included
 
 - Standard Listening Room with a six-row live board and public idle welcome
