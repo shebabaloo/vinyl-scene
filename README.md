@@ -55,6 +55,25 @@ movement, coffee steam and quiet window life. When live music is idle, the board
 A top-down desk with a large animated record, a printed track card, album-colored lamp
 response, environmental shadow and coffee steam.
 
+## Personal rooms (not in the public app)
+
+These two rooms belong to the developer's personal edition. They are shown for reference
+only and are **not available in Vinyl Scene Beta**. Building your own room may return in a
+future version.
+
+### Shez's Listening Room
+
+![Shez's personalized Listening Room](assets/shez-listening-room.png)
+
+A personalized take on the Listening Room, with the same board, record, lamp, steam and
+window system.
+
+### Shez's Listening Room, ultrawide
+
+![Shez's Listening Room composed for an ultrawide display](assets/shez-listening-room-ultrawide.png)
+
+The same personal room, recomposed for a 3440×1440 ultrawide display.
+
 ## First use
 
 1. Choose **Listening Room** or **Desk Loop**.
