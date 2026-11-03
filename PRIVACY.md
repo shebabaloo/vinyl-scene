@@ -1,11 +1,12 @@
 # Privacy
 
-Vinyl Scene 0.1.0 is designed as a local macOS application.
+Vinyl Scene Beta 0.1.6 is designed as a local macOS application.
 
 ## What the app reads
 
 - If you opt into **Live music**, Vinyl Scene asks macOS for permission to read the
-  currently playing title and artist from Apple Music or Spotify.
+  currently playing title and artist from Apple Music or Spotify. It only asks a player
+  that is already running.
 - Spotify may also provide an artwork URL. When available, Vinyl Scene fetches that image
   transiently to derive the scene palette.
 - Display names and identifiers are read locally so you can choose which desktop receives
@@ -15,8 +16,6 @@ Vinyl Scene 0.1.0 is designed as a local macOS application.
 
 - Scene, motion, color, display, startup, and onboarding preferences are stored locally in
   macOS user defaults.
-- A locally imported Scene Pack stores only its validated final PNG plate and manifest in
-  the user's Application Support folder.
 
 ## What the app does not do
 
@@ -25,7 +24,7 @@ Vinyl Scene 0.1.0 is designed as a local macOS application.
 - No analytics or telemetry
 - No developer-operated server
 - No sale or sharing of personal data
-- No upload of music history, preferences, Creator Kit references, or imported scenes
+- No upload of music history or preferences
 
 Preview mode does not contact Apple Music or Spotify. Live music can be disabled at any
 time in the editor, and Automation access can be revoked in **System Settings → Privacy &

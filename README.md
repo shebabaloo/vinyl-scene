@@ -98,8 +98,7 @@ data boundary.
 - Apple Silicon only; no Intel build is included.
 - Live now-playing support is limited to the Spotify and Music Mac apps. Spotify album
   covers set the colors; Apple Music uses song-inspired fallback colors.
-- This beta includes two scenes. Personal rooms and the Creator Kit from 0.1.0 are not
-  part of it.
+- This beta includes two scenes. Building your own room may return in a future version.
 
 ## Help and feedback
 

@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Report a reproducible Vinyl Scene friend-beta problem
+about: Report a reproducible Vinyl Scene beta problem
 title: "[Bug] "
 labels: bug
 assignees: ""
@@ -20,12 +20,13 @@ Describe the visible problem and what you expected instead.
 
 - Mac model / chip:
 - macOS version:
-- Scene and edition:
+- App version (Vinyl Scene Beta 0.1.6 or 0.1.0):
+- Scene:
 - Motion mode:
 - Preview, Apple Music, or Spotify:
 - External display, if any:
 
 ## Evidence
 
-Attach a short screen recording if motion or timing is involved. Do not attach private
-Creator Kit references or imported Scene Pack source material.
+Attach a short screen recording if motion or timing is involved. Only include what you
+are comfortable sharing publicly.
