@@ -7,12 +7,12 @@ playing track from the Spotify or Music Mac app, then coordinates the split-flap
 printed track card, record label, lamp color and restrained ambient motion around the
 music. It does not play audio itself.
 
-> **Beta:** Version 0.1.7 is an unnotarized Apple Silicon preview. macOS asks you to
+> **Beta:** Version 0.1.8 is an unnotarized Apple Silicon preview. macOS asks you to
 > approve it once, the first time you open it.
 
 ## Download and install
 
-### [Download Vinyl Scene for Apple Silicon (7.4 MB)](https://github.com/shebabaloo/vinyl-scene/releases/download/v0.1.7-beta/Vinyl-Scene-Beta-0.1.7-build8-arm64.zip)
+### [Download Vinyl Scene for Apple Silicon (7.4 MB)](https://github.com/shebabaloo/vinyl-scene/releases/download/v0.1.8-beta/Vinyl-Scene-Beta-0.1.8-build9-arm64.zip)
 
 Requires an Apple Silicon Mac (M1 or newer) running macOS 14 Sonoma or later. Intel Macs
 are not supported by this beta.
@@ -27,15 +27,16 @@ are not supported by this beta.
    next launch.
 
 If you are looking at GitHub's **Assets** list, choose
-`Vinyl-Scene-Beta-0.1.7-build8-arm64.zip`. Do **not** choose either automatically generated
+`Vinyl-Scene-Beta-0.1.8-build9-arm64.zip`. Do **not** choose either automatically generated
 **Source code** archive; those files do not contain the app.
 
 Only use the security override for a build downloaded from this repository. The SHA-256
-checksum published with the [release](https://github.com/shebabaloo/vinyl-scene/releases/tag/v0.1.7-beta)
+checksum published with the [release](https://github.com/shebabaloo/vinyl-scene/releases/tag/v0.1.8-beta)
 lets you verify the ZIP before opening it.
 
 **Updating?**
 
+- **From Vinyl Scene 0.1.7:** quit it, then let this one replace it in Applications.
 - **From Vinyl Scene Beta 0.1.6:** this is the same app, renamed. Quit it, turn off its
   **Start at login** if you enabled it, move **Vinyl Scene Beta.app** to Trash, then install
   this one. Your settings carry over.
@@ -49,7 +50,7 @@ lets you verify the ZIP before opening it.
 ![Listening Room with a six-row welcome board](assets/listening-room.png)
 
 A warm night room with a six-row split-flap board, album-derived lighting, record
-movement, coffee steam and quiet window life. When live music is idle, the board reads
+movement, coffee steam, a curtain that sways in the breeze and quiet window life. When live music is idle, the board reads
 **WELCOME TO THE LISTENING ROOM!**
 
 ### Desk Loop

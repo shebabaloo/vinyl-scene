@@ -1,8 +1,22 @@
 # Vinyl Scene release notes
 
+## Vinyl Scene 0.1.8 (beta) — November 3, 2026
+
+### [Download Vinyl Scene for Apple Silicon (7.4 MB)](https://github.com/shebabaloo/vinyl-scene/releases/download/v0.1.8-beta/Vinyl-Scene-Beta-0.1.8-build9-arm64.zip)
+
+- The Listening Room's curtain now sways with the same slow breeze as the window plant: a
+  soft light along its edge drifts open and back, passing behind the turntable's arm. It
+  stops in Still and with macOS Reduce Motion, and it isn't tied to the music.
+
+Expected SHA-256 for `Vinyl-Scene-Beta-0.1.8-build9-arm64.zip`:
+
+```text
+fd9f5bc40d6b0682ae043cf6f390a29920ae18c1c18309708237ea62dd346751
+```
+
 ## Vinyl Scene 0.1.7 (beta) — November 3, 2026
 
-### [Download Vinyl Scene for Apple Silicon (7.4 MB)](https://github.com/shebabaloo/vinyl-scene/releases/download/v0.1.7-beta/Vinyl-Scene-Beta-0.1.7-build8-arm64.zip)
+Available on its [release page](https://github.com/shebabaloo/vinyl-scene/releases/tag/v0.1.7-beta).
 
 - The app is now named **Vinyl Scene** in Finder, the Dock and its menus; 0.1.6 called it
   **Vinyl Scene Beta**. It keeps the same identity, so settings and the music permission
