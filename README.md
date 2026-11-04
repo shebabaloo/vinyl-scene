@@ -8,6 +8,7 @@ printed track card, record label, lamp color and restrained ambient motion aroun
 music. It does not play audio itself.
 
 A one-minute silent walkthrough of the real app, from setup to a live song change:
+
 https://github.com/user-attachments/assets/1c9731e9-04ed-4fbf-9a7a-b8f6e20b02bd
 
 > **Beta:** Version 0.1.8 is an unnotarized Apple Silicon preview. macOS asks you to
