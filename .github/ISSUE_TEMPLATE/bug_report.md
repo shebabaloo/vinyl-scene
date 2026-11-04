@@ -20,7 +20,7 @@ Describe the visible problem and what you expected instead.
 
 - Mac model / chip:
 - macOS version:
-- App version (Vinyl Scene Beta 0.1.6 or 0.1.0):
+- App version (shown in Vinyl Scene → About Vinyl Scene):
 - Scene:
 - Motion mode:
 - Preview, Apple Music, or Spotify:

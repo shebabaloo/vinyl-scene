@@ -1,5 +1,20 @@
 # Vinyl Scene release notes
 
+## Vinyl Scene 0.1.7 (beta) — November 3, 2026
+
+### [Download Vinyl Scene for Apple Silicon (7.4 MB)](https://github.com/shebabaloo/vinyl-scene/releases/download/v0.1.7-beta/Vinyl-Scene-Beta-0.1.7-build8-arm64.zip)
+
+- The app is now named **Vinyl Scene** in Finder, the Dock and its menus; 0.1.6 called it
+  **Vinyl Scene Beta**. It keeps the same identity, so settings and the music permission
+  carry over. See "Updating?" in the [README](README.md#download-and-install).
+- Otherwise the same features as 0.1.6, below.
+
+Expected SHA-256 for `Vinyl-Scene-Beta-0.1.7-build8-arm64.zip`:
+
+```text
+083b87ff86a9b572806723a993d5aade36ac0825f47b6d3b02b411d105aae954
+```
+
 ## Vinyl Scene Beta 0.1.6 — November 2, 2026
 
 ### [Download Vinyl Scene Beta for Apple Silicon (7.4 MB)](https://github.com/shebabaloo/vinyl-scene/releases/download/v0.1.6-beta/Vinyl-Scene-Beta-0.1.6-build7-arm64.zip)
@@ -17,8 +32,7 @@ are in the [README](README.md#download-and-install).
 - **Start at login** now works on first use.
 - Live music only asks a player that is already running, so a Mac without Spotify is
   never asked "Where is Spotify?".
-- The app is now named **Vinyl Scene Beta**, with its own preferences. It can sit beside
-  0.1.0; run one at a time.
+- The app was named **Vinyl Scene Beta**, with its own preferences.
 
 ### Included
 

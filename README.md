@@ -7,36 +7,40 @@ playing track from the Spotify or Music Mac app, then coordinates the split-flap
 printed track card, record label, lamp color and restrained ambient motion around the
 music. It does not play audio itself.
 
-> **Beta:** Version 0.1.6 is an unnotarized Apple Silicon preview. macOS asks you to
+> **Beta:** Version 0.1.7 is an unnotarized Apple Silicon preview. macOS asks you to
 > approve it once, the first time you open it.
 
 ## Download and install
 
-### [Download Vinyl Scene Beta for Apple Silicon (7.4 MB)](https://github.com/shebabaloo/vinyl-scene/releases/download/v0.1.6-beta/Vinyl-Scene-Beta-0.1.6-build7-arm64.zip)
+### [Download Vinyl Scene for Apple Silicon (7.4 MB)](https://github.com/shebabaloo/vinyl-scene/releases/download/v0.1.7-beta/Vinyl-Scene-Beta-0.1.7-build8-arm64.zip)
 
 Requires an Apple Silicon Mac (M1 or newer) running macOS 14 Sonoma or later. Intel Macs
 are not supported by this beta.
 
 1. Click the download link above, then double-click the ZIP.
-2. Move **Vinyl Scene Beta.app** into your **Applications** folder.
+2. Move **Vinyl Scene.app** into your **Applications** folder.
 3. Open it. macOS says it cannot check the app. Click **Done**, not Move to Trash.
 4. Open **System Settings → Privacy & Security**, scroll to **Security**, click
-   **Open Anyway** next to "Vinyl Scene Beta", and confirm with your password or Touch ID.
+   **Open Anyway** next to "Vinyl Scene", and confirm with your password or Touch ID.
    Click **Open Anyway** again if asked.
 5. Keep the app in Applications. Run straight from Downloads, macOS can ask again on the
    next launch.
 
 If you are looking at GitHub's **Assets** list, choose
-`Vinyl-Scene-Beta-0.1.6-build7-arm64.zip`. Do **not** choose either automatically generated
+`Vinyl-Scene-Beta-0.1.7-build8-arm64.zip`. Do **not** choose either automatically generated
 **Source code** archive; those files do not contain the app.
 
 Only use the security override for a build downloaded from this repository. The SHA-256
-checksum published with the [release](https://github.com/shebabaloo/vinyl-scene/releases/tag/v0.1.6-beta)
+checksum published with the [release](https://github.com/shebabaloo/vinyl-scene/releases/tag/v0.1.7-beta)
 lets you verify the ZIP before opening it.
 
-**Installed the 0.1.0 friend beta?** It is a separate app named Vinyl Scene. Run one at a
-time. To remove it, turn off its Start at login if you enabled it, quit it, and move
-**Vinyl Scene.app** to Trash.
+**Updating?**
+
+- **From Vinyl Scene Beta 0.1.6:** this is the same app, renamed. Quit it, turn off its
+  **Start at login** if you enabled it, move **Vinyl Scene Beta.app** to Trash, then install
+  this one. Your settings carry over.
+- **From the 0.1.0 friend beta (also named Vinyl Scene):** quit it and turn off its
+  **Start at login** if you enabled it, then let this one replace it in Applications.
 
 ## The scenes
 
@@ -58,7 +62,7 @@ response, environmental shadow and coffee steam.
 ## Personal rooms (not in the public app)
 
 These two rooms belong to the developer's personal edition. They are shown for reference
-only and are **not available in Vinyl Scene Beta**. Building your own room may return in a
+only and are **not available in the public app**. Building your own room may return in a
 future version.
 
 ### Shez's Listening Room

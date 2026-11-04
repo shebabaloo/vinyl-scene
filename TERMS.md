@@ -1,6 +1,6 @@
 # Beta Terms
 
-Vinyl Scene Beta 0.1.6 is provided as preview software for personal, non-commercial
+The Vinyl Scene 0.1.7 beta is provided as preview software for personal, non-commercial
 evaluation. It may contain defects and is provided without warranty.
 
 You may install and use the published beta application on compatible Macs. Share the
