@@ -1,8 +1,22 @@
 # Vinyl Scene release notes
 
+## Vinyl Scene 0.1.9 (beta) — November 4, 2026
+
+### [Download Vinyl Scene for Apple Silicon (7.4 MB)](https://github.com/shebabaloo/vinyl-scene/releases/download/v0.1.9-beta/Vinyl-Scene-Beta-0.1.9-build10-arm64.zip)
+
+- The first-time macOS prompt for Spotify or Music now stays open until you answer it. It
+  used to close and reopen every few seconds.
+- Once Automation access is off, the setup text no longer says macOS will ask.
+
+Expected SHA-256 for `Vinyl-Scene-Beta-0.1.9-build10-arm64.zip`:
+
+```text
+799301ccb95d03ccb6793deb3067ce14c9e6a5f4e566cb7bcb10f402f1373328
+```
+
 ## Vinyl Scene 0.1.8 (beta) — November 3, 2026
 
-### [Download Vinyl Scene for Apple Silicon (7.4 MB)](https://github.com/shebabaloo/vinyl-scene/releases/download/v0.1.8-beta/Vinyl-Scene-Beta-0.1.8-build9-arm64.zip)
+Available on its [release page](https://github.com/shebabaloo/vinyl-scene/releases/tag/v0.1.8-beta).
 
 - The Listening Room's curtain now sways with the same slow breeze as the window plant: a
   soft light along its edge drifts open and back, passing behind the turntable's arm. It

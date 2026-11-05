@@ -1,6 +1,6 @@
 # Privacy
 
-The Vinyl Scene 0.1.8 beta is designed as a local macOS application.
+The Vinyl Scene 0.1.9 beta is designed as a local macOS application.
 
 ## What the app reads
 
